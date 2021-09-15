@@ -1,0 +1,15 @@
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.csproj.AssemblyReference.cache
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.AssemblyInfoInputs.cache
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.AssemblyInfo.cs
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.csproj.CoreCompileInputs.cache
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/VariablePractice.deps.json
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/VariablePractice.runtimeconfig.json
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/VariablePractice.runtimeconfig.dev.json
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/VariablePractice.dll
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/ref/VariablePractice.dll
+/Users/jkduane/Desktop/C#/VariablePractice/bin/Debug/net5.0/VariablePractice.pdb
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.dll
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/ref/VariablePractice.dll
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.pdb
+/Users/jkduane/Desktop/C#/VariablePractice/obj/Debug/net5.0/VariablePractice.genruntimeconfig.cache
